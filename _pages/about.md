@@ -11,7 +11,7 @@ profile:
   more_info: |
     MBTI: XNTX <br>
     favorit: ICE BAC CIDER <br>
-    music: <a href="https://youtu.be/GbRq44Jw8s1A?si=wWbYMF2wdn4eqrY1" target="_blank">vansire</a>
+    music: <a href="https://youtu.be/yqseZBPb7kg?si=TsI-9H4JZY9n9q90" target="_blank">X-mas</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,5 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`
+🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`<br>
 I am Ryu-Ryu, a SOC Analyst based in Seoul, South Korea.——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/
