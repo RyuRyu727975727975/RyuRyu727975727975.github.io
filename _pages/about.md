@@ -26,7 +26,7 @@ latest_posts:
 
 🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`<br>
 <br>
-SOC Analyst | 💟x🤖
+**SOC Analyst**  |  💟x🤖<br>
 <br>
 I am Ryu-Ryu in Seoul, South Korea.——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/<br>
 
