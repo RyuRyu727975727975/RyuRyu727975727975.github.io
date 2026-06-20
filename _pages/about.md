@@ -27,7 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´¯`·.¸🐠🐟·´¯`·.´
-I am Ryu-Ryu, a SOC Analyst based in Seoul, South Korea.
-Currently focused on making security operations more actionable day by day.
-—ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/
+🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`
+I am Ryu-Ryu, a SOC Analyst based in Seoul, South Korea.——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/
