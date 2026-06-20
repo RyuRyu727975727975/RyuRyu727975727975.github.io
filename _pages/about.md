@@ -25,7 +25,10 @@ latest_posts:
 ---
 
 🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`<br>
-I am Ryu-Ryu, a SOC Analyst based in Seoul, South Korea.——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/<br>
+<br>
+SOC Analyst | 💟x🤖
+<br>
+I am Ryu-Ryu in Seoul, South Korea.——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/<br>
 
 MBTI: XNTX<br>
 Favorite: ICE BAC CIDER<br>
