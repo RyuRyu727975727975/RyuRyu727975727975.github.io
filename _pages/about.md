@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Follow</a>. [THM](https://tryhackme.com/p/nmluu88) <br>
+subtitle: <a href='#'>Follow</a>. <a href='https://tryhackme.com/p/nmluu88' target='_blank'>THM</a> <br>
 
 profile:
   align: left
@@ -24,10 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`<br>
+🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`🐟`·.´¯`🐠`·.´¯`<br>
 I am Ryu-Ryu, a SOC Analyst based in Seoul, South Korea.——ฅ/ᐠ. ̫ .ᐟ\ฅ ——ฅ/<br>
 
-More Info
-* **MBTI:** XNTX<br>
-* **Favorite:** ICE BAC CIDER<br>
-* **Music:** [X-mas](https://youtu.be/yqseZBPb7kg?si=TsI-9H4JZY9n9q90)
+MBTI: XNTX<br>
+*Favorite: ICE BAC CIDER<br>
+Music: [X-mas](https://youtu.be/yqseZBPb7kg?si=TsI-9H4JZY9n9q90)
